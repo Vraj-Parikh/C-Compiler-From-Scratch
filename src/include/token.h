@@ -7,7 +7,6 @@ typedef struct {
         TOKEN_ID,
         TOKEN_ASSIGNMENT,
         TOKEN_COMPARISION,
-        TOKEN_
     } type;
 } token_gosu;
 
